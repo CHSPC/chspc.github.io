@@ -1,0 +1,9 @@
+.intro-heading{
+	font-size: 400% !important
+}
+@media(max-width: 500px){
+	.intro-heading{
+		font-size: 300% !important;
+	}
+}
+
